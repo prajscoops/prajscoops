@@ -29,7 +29,7 @@
 <p align="center">
 &nbsp; <a href="https://twitter.com/prajash_36" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>  
 &nbsp; <a href="https://www.instagram.com/prajs06.py" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/prajwal-sharma-8b7b3b294/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"  /></a>
+&nbsp; <a href="https://www.linkedin.com/in/prajwal-sharma-/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"  /></a>
 &nbsp; <a href="mailto:prajscoops232@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" /></a>
 &nbsp; <a href="https://www.hackerrank.com/prajscoops232" target="blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  width="40" /></a>
 </p>
